@@ -1,0 +1,8 @@
+[project]
+name = "qsh"
+version = "0.1.0"
+description = "Minimal CLI utility"
+requires-python = ">=3.10"
+
+[project.scripts]
+qsh = "qsh.main:main"
